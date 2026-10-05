@@ -1,4 +1,5 @@
 ## Binary Search   - meaning diving the search bi...half.
+## ** Can only be performed on the sorted array i.e ascending or descending order **
 def binary_search(arr,target):
    
     size = len(lst)
