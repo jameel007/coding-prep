@@ -29,3 +29,5 @@ print(library.name)
 
 for books in library.listbooks():
     print(books)
+
+print(dir(Book))
